@@ -1,3 +1,23 @@
 {
-"https://n2.kemono.su/data/5f/1f/5f1fdff872dfa52fdd296cd95caa79d0b9165a0d567b35dff004dec209e7115c.png?f=bae_f.png"
-  }
+  "nombre": "Juan Pérez",
+  "edad": 30,
+  "direccion": {
+    "calle": "123 Calle Principal",
+    "ciudad": "Ciudad Ejemplo",
+    "codigo_postal": "12345"
+  },
+  "telefonos": [
+    {
+      "tipo": "casa",
+      "numero": "123-456-7890"
+    },
+    {
+      "tipo": "movil",
+      "numero": "098-765-4321"
+    }
+  ],
+  "correos_electronicos": [
+    "juan.perez@example.com",
+    "jperez@example.org"
+  ]
+}
